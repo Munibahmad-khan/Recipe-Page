@@ -1,0 +1,181 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  display: flex;
+  justify-content: center;
+  background-color: bisque;
+  margin-top: 5rem;
+  font-family: sans-serif;
+}
+.container {
+  height: 1750px;
+  width: 700px;
+  /* border: 2px solid black; */
+  border-radius: 15px;
+  background-color: white;
+  margin-bottom: 20px;
+}
+.imgrec {
+  width: 700px;
+  display: flex;
+  justify-content: center;
+}
+.imgrec img {
+  width: 650px;
+  /* margin-left: 5px; */
+  margin-top: 40px;
+  border-radius: 15px;
+}
+.title {
+  padding-left: 20px;
+  padding-top: 20px;
+}
+.desctitle {
+  padding-left: 20px;
+  padding-top: 20px;
+}
+.colorp {
+  height: 150px;
+  width: 650px;
+  /* border: 2px solid black; */
+  border-radius: 10px;
+  background-color: rgba(245, 0, 200, 0.069);
+  /* display: flex;
+  justify-content: center;
+  align-content: center; */
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.colortitle {
+  font-weight: bold;
+  padding-left: 20px;
+  padding-top: 10px;
+  color: rgb(245, 0, 200);
+}
+.colordisc {
+  margin-left: 50px;
+  margin-top: 15px;
+}
+.colordisc p {
+  margin-top: 10px;
+}
+.pbold {
+  font-weight: bold;
+}
+.dot {
+  font-size: 20px;
+  font-weight: bolder;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  color: rgb(245, 0, 200);
+}
+.Instructions {
+  margin-top: 20px;
+  /* padding-right: 50px; */
+}
+.kharh {
+  color: rgb(255, 68, 0);
+  font-weight: bolder;
+  margin-left: 20px;
+  font-size: x-large;
+  /* font-style: inherit; */
+}
+.colordisk2 {
+  margin-left: 50px;
+  margin-top: 15px;
+}
+.colordisk2 p {
+  margin-top: 30px;
+  margin-left: 20px;
+}
+.dot1 {
+  margin-left: 20px;
+  font-size: 20px;
+  font-weight: bolder;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  color: rgb(245, 0, 200);
+}
+.ghalti {
+  margin-top: 12px;
+}
+.hr1 {
+  margin-top: 25px;
+  height: 2px;
+  background-color: black;
+}
+.ingrediants {
+  height: 500px;
+  width: 650px;
+  margin-top: 20px;
+  margin-left: 20px;
+  /* border: 2px solid black; */
+}
+.ingredianttitle {
+  color: rgb(255, 68, 0);
+  font-weight: bolder;
+  /* margin-left: 20px; */
+  font-size: x-large;
+}
+.p1 {
+  padding-top: 35px;
+}
+.p2 {
+  margin-top: 25px;
+}
+.bolder1 {
+  font-weight: bolder;
+  color: black;
+}
+.number {
+  font-weight: bolder;
+  padding-right: 10px;
+}
+.hr2 {
+  margin-top: -65px;
+  height: 2px;
+  background-color: black;
+  /* box-shadow: 0 0 20px greenyellow; */
+}
+.nutrition {
+  height: 250px;
+  width: 650px;
+  margin-top: 20px;
+  margin-left: 20px;
+  /* border: 2px solid black; */
+}
+.nutritiontitle {
+  color: rgb(255, 68, 0);
+  font-weight: bolder;
+  /* margin-left: 20px; */
+  font-size: x-large;
+}
+.nutridisk {
+  padding-top: 20px;
+}
+.nutrivalue {
+  padding-top: 20px;
+}
+.kcal {
+  color: rgb(255, 68, 0);
+  font-weight: bolder;
+  margin-left: 300px;
+  font-size: large;
+  display: flex;
+  justify-content: space-around;
+  /* align-items: center; */
+}
+.nutrihr {
+  margin-top: 10px;
+}
+.value12 {
+  padding-top: 20px;
+  padding-bottom: 15px;
+  /* display: flex; */
+  /* justify-content: space-evenly;
+  justify-items: flex-end; */
+  /* align-items: center;
+  align-content: center; */
+}
